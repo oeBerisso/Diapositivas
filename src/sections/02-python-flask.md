@@ -1,9 +1,12 @@
+
+<img src="static/Flask.png">
+
+----
 ## Flask
 
 Flask es un Framework minimalista que permite crear aplicaciones web rápidamente, sin ninguna estructura fija, y la capacidad de escalarlo tanto como sea necesario
 
 ----
-
 ### Patron MVC (MODELO-VISTA-CONTROLADOR)
 
 - Modelo: Se encarga de los datos, generalmente (pero no obligatoriamente) consultando la base de datos. Actualizaciones, consultas, búsquedas, etc. todo eso va aquí, en el modelo.
@@ -17,7 +20,7 @@ Flask es un Framework minimalista que permite crear aplicaciones web rápidament
 ```
 .
 ├── config                    # Configuraciones para el despliegue del entorno productivo y entorno de pruebas
-├── helpers                   # Archivos con funciones útiles que son requeridas
+├── helpers                   # Archivos con funciones útiles que son utilizadas en varios lugares
 ├── models                    # Modelos
 ├── resources                 # Controladores
 ├── static                    # Archivos tales como estilos, JavaScript, imágenes
@@ -29,11 +32,17 @@ Flask es un Framework minimalista que permite crear aplicaciones web rápidament
 
 ----
 
-### Validaciones de los formulario
+### Switch con la logica de las validaciones
 
 CODE: validator.py python
 
----
+----
+
+### Funciones para validar
+
+CODE: field.py python
+
+----
 
 ### Ejemplo de reglas para el registrar
 
