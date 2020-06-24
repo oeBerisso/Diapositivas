@@ -14,4 +14,4 @@
 
 - Python-Flask
 - VueJS
-- Virtualizacion con Docker
+- Virtualización con Docker
