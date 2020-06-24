@@ -5,8 +5,11 @@
 ## VueJS
 
 - A diferencia de otros frameworks monolíticos, Vue está diseñado desde el inicio para ser adoptado incrementalmenteLa biblioteca principal se enfoca solo en la capa de la vista, y es muy simple de utilizar e integrar con otros proyectos o bibliotecas existentes.
-- Es un framework "reactivo" que implementa "two way data-binding": enlace de datos en dos direcciones (entre la vista y el modelo) de una manera muy eficiente y rápida.
 - Posee una gran facilidad de aprendizaje y uso con respecto a otros frameworks como ReactJS.
+----
+
+## VueJS
+- Es un framework "reactivo" que implementa "two way data-binding": enlace de datos en dos direcciones (entre la vista y el modelo) de una manera muy eficiente y rápida.
 - utiliza el patron MVVM
 
 ----
