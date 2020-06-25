@@ -15,6 +15,9 @@ Para evitar problemas de compatibilidad entre miembros del grupo utilizamos dock
 ----
 
 Terminamos armando un docker para python y lo agregamos al docker-compose
+----
+
+<img src="static/dockerfile.png">
 
 ----
 
