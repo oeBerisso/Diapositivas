@@ -18,7 +18,7 @@
 
 ```
 .
-├── assets                    # Configuraciones para el despliegue del entorno productivo y entorno de pruebas
+├── assets                    # Archivos estaticos, como imagenes
 ├── components                # Componentes reutilizables (vistas)
 ├── helpers                   # Archivos con funciones útiles que son utilizadas en varios lugares
 ├── routes                    # Declaracion de rutas
