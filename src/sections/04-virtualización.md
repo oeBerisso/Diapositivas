@@ -2,7 +2,7 @@
 ----
 
 ## Virtualización
-En la cátedra se promovia virtualizar el código python con virtual env, pero no se decía nada sobre la base de datos
+En la cátedra se promueve virtualizar el código python con virtual env, pero no se decía nada sobre la base de datos
 
 ----
 
@@ -18,7 +18,7 @@ Terminamos armando un docker para python y lo agregamos al docker-compose
 
 ----
 
-### Conclisión
+### Concluisión
 
 * Para proyectos simples es una buena opción virtual env ya que es más liviano
-* Para proyectos que usen más servicios como una base de datos, resulta mas cómodo usar Docker para el desarrollo 
+* Para proyectos que usen más servicios como una base de datos, resulta más cómodo usar Docker para el desarrollo 
