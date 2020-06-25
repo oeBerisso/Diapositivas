@@ -15,3 +15,10 @@ Para evitar problemas de compatibilidad entre miembros del grupo utilizamos dock
 ----
 
 Terminamos armando un docker para python y lo agregamos al docker-compose
+
+----
+
+### Conclisión
+
+* Para proyectos simples es una buena opción virtual env ya que es más liviano
+* Para proyectos que usen más servicios como una base de datos, resulta mas cómodo usar Docker para el desarrollo 
