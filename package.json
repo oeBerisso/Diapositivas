@@ -11,7 +11,7 @@
     "start": "reveal-md src/presentacion.md --css src/css/styles.css",
     "start:record": "obs --startrecording --collection ./obs-record",
     "clear": "rm -r css/ js/ lib/ plugin/ static/ presentacion.html index.html",
-    "build": "reveal-md src/presentacion.md --static . --static-dirs=src/static --highlight-theme=atom-one-dark --css src/css/styles.css",
+    "build": "reveal-md src/presentacion.md --static public/ --static-dirs=src/static --highlight-theme=atom-one-dark --css src/css/styles.css",
     "postbuild": "cp src/css/* css/ && ./script/postbuild.js",
     "open:chrome": "yarn build && chrome index.html",
     "open:chromium": "yarn build && chromium index.html",

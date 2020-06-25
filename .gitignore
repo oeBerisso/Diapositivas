@@ -4,6 +4,7 @@ js/
 lib/
 plugin/
 static/
+public/
 
 !src/css/
 !src/static/
